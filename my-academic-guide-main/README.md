@@ -166,7 +166,7 @@ my-academic-guide/
 
 ## 👨‍💻 Developer
 
-**Arjun T.**
+**Ashwin V**
 
 Computer Science and Engineering
 
